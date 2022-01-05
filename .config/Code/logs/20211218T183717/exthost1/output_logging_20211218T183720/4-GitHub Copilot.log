@@ -1,0 +1,8 @@
+[INFO] [default] [2021-12-18T17:37:45.744Z] Experimentation service initialized
+[INFO] [default] [2021-12-18T17:37:45.861Z] Stringified features: {"copilotaa":"true"}
+[INFO] [default] [2021-12-18T17:37:45.861Z] Feature for copilotaa: true
+[INFO] [default] [2021-12-18T17:37:45.861Z] Feature for copilotincludeprompt: none
+[INFO] [default] [2021-12-18T17:37:45.861Z] Feature for copilotset1: undefined
+[INFO] [default] [2021-12-18T17:37:45.861Z] Feature for copilotghgh: false
+[INFO] [default] [2021-12-18T17:37:45.861Z] Feature for copilotfim: false
+[ERROR] [default] [2021-12-18T17:37:54.076Z] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"

@@ -1,0 +1,6 @@
+[2021-12-18 18:37:43.366] [sharedprocess] [info] Installing extension: github.copilot
+[2021-12-18 18:37:45.098] [sharedprocess] [info] Downloaded extension: github.copilot /home/oliver/.config/Code/CachedExtensionVSIXs/github.copilot-1.7.4421
+[2021-12-18 18:37:45.239] [sharedprocess] [info] Extracted extension to /home/oliver/.vscode/extensions/.5d4786d7-1e28-4459-ae19-839c14cadb23: github.copilot
+[2021-12-18 18:37:45.272] [sharedprocess] [info] Renamed to /home/oliver/.vscode/extensions/github.copilot-1.7.4421
+[2021-12-18 18:37:45.277] [sharedprocess] [info] Extracting completed. github.copilot
+[2021-12-18 18:37:45.284] [sharedprocess] [info] Extension installed successfully: github.copilot

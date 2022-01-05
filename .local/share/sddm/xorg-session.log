@@ -1,0 +1,32 @@
+xfsettingsd: no process found
+picom: no process found
+polybar: no process found
+dunst: no process found
+ksuperkey: no process found
+xfce4-power-manager: no process found
+
+(xfsettingsd:939): xfsettingsd-ERROR **: 20:11:34.749: Unable to open display.
+
+(xfce-polkit:941): Gtk-WARNING **: 20:11:34.750: cannot open display: :0
+
+(xfce4-power-manager:942): xfce4-power-manager-ERROR **: 20:11:34.752: Unable to open display.
+No backlight controller was found, so we could not decide an automatic target. The current command will have no effect. Please use -L to find a target and then specify it with -s.
+
+polybar|error: X connection error... (what: Socket, pipe or stream error)
+Unable to connect to X11 display. Is $DISPLAY set?
+Unable to connect to X11 display. Is $DISPLAY set?
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+WARNING: Cannot open X11 display.
+ERROR: [src/output.c:get_x11_output:0065] Couldn't initialize X11 output. Aborting...
+
+ERROR: openbox-xdg-autostart requires PyXDG to be installed
+
+(plank:968): Gtk-WARNING **: 20:11:34.850: cannot open display: :0
+
+(thunar:969): Gtk-WARNING **: 20:11:34.861: cannot open display: :0
+Dec 18 20:11 : decoder: Decoder plugin 'wildmidi' is unavailable: configuration file does not exist: /etc/timidity/timidity.cfg
+X connection to :0 broken (explicit kill or server shutdown).
+X connection to :0 broken (explicit kill or server shutdown).
