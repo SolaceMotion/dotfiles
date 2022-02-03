@@ -2,7 +2,9 @@
 # ~/.bashrc
 #
 
-PS1="\u@\h \w \$ "
+./keyboard.sh
+
+PS1="\u@\h \w \$ "i
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
@@ -16,6 +18,7 @@ alias nv='nvim'
 alias ll='ls -la'
 alias la='ls -a'
 alias open='xdg-open'
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
